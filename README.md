@@ -5,6 +5,9 @@
 
 ## Object Calisthenics
 
+### Articles & Tutorials
+1. [Object Calisthenics by William Durand](https://williamdurand.fr/2013/06/03/object-calisthenics/)
+
 ### Videos
 1. [Object Calisthenics - 9 steps to better OO code - lecture by Paweł Lewtak - Code Europe Spring 2017](https://www.youtube.com/watch?v=rHbbSF2HBy0)  
 1. [Best practices of OO and the Shopping Cart Kata (Object Calisthenics)](https://www.youtube.com/watch?v=kBNThogwWYw)  
