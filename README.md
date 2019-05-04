@@ -6,6 +6,7 @@
 ## Object Calisthenics
 
 ### Articles & Tutorials
+1. [My notes and understanding of Object Calisthenics](Object_calisthenics.md)
 1. [Object Calisthenics by William Durand](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 
 ### Videos
