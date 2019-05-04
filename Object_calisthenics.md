@@ -39,3 +39,49 @@ By wrapping primitive types into classes we can encapsulate the type and have co
 * Type hinting
 * Attracts similar behavior
 
+### 4. One dot per line
+This applies the Demeter law: *Only talk to your friends* 
+
+#### Benefits
+* Encapsulation
+* Open/Close Principle
+
+### 5. Do **not** abbreviate
+If you are abbreviating it is quite possible that the method is doing more than it should (violating the single responsibility principle), so think again.
+
+#### Benefits
+* Single Responsibility principle
+* Avoid confusion
+* Avoid code duplication
+ 
+ ### 6. Keep classes small
+ * 15 - 20 lines per method
+ * 50 lines per class
+ * 10 classes per package
+ 
+ #### Benefits
+ * Single Responsibility principle
+ * Smaller modules
+ * Coherent code
+ 
+ ### 7. No more than 2 instance variables per class
+ A single class should handle only one state and two at most, so having more than 2 instance vars might be violating SRP.
+ 
+ #### Benefits
+ * High cohesion
+ * Encapsulation
+ * Fewer dependencies
+ 
+ ### 8. Firs class collections
+ This is similar to rule #3 but applied to collections
+ 
+ #### Benefits
+ * Wrap primitive collections
+ * Behavior or related collections have a home
+ * Encapsulation
+ 
+### 9. Do not use getters and setters
+Don't make decisions outside of the class, let the class do it's job, follows the *Tell don't ask principle*
+
+#### Benefits
+* Open/close principle
