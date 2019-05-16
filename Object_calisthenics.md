@@ -72,7 +72,7 @@ If you are abbreviating it is quite possible that the method is doing more than 
  * Encapsulation
  * Fewer dependencies
  
- ### 8. Firs class collections
+ ### 8. First class collections
  This is similar to rule #3 but applied to collections
  
  #### Benefits
